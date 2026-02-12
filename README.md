@@ -404,7 +404,7 @@ Users see a brief loading state (~1 second) while the SPA boots. After that, **e
 
 ### "Can this handle large sites?"
 
-Battle-tested with **9,000+ pages in production**, auto-refreshed every 6 hours. The Supabase free tier handles this comfortably.
+Battle-tested with **350,000+ pages in production**, auto-refreshed every 6 hours. The Supabase free tier handles this comfortably.
 
 ---
 
