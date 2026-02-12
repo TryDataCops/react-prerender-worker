@@ -55,7 +55,7 @@ Let's be honest about what you're paying for:
 | 💰 **Monthly cost** | **$0** (free tiers) | **$20–$100+** |
 | ⚡ **Bot response time** | **~50ms** (edge cache) | **~200–500ms** (SSR) |
 | 🔒 **Framework lock-in** | **None — keep your stack** | **Next.js only, forever** |
-| 📄 **Pages supported** | **10,000+ tested** | Depends on pricing plan |
+| 📄 **Pages supported** | **350,000+ tested** | Depends on pricing plan |
 | 🌍 **Global performance** | **Edge (300+ cities)** | Regional servers |
 | 🔄 **Migration effort** | **Zero — drop-in addition** | **Full app rewrite** |
 | 👤 **User experience** | Pure SPA (instant navigation) | SSR + hydration jank |
